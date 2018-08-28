@@ -61,7 +61,7 @@ class ProcessManager
      *
      * @var int
      */
-    protected $maxRequests = 2000;
+    protected $maxRequests = 1;
 
     /**
      * Maximum amount of time a request is allowed to execute before shutting down
